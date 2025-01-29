@@ -41,8 +41,8 @@ Noten Ganze,Zehntel oder Ganze.Zehntel eingeben (Ende mit Strg-D/Strg-Z):
 Note 6.0 wird wegen Vorkommastelle 6 ignoriert! %n
 Note 6.1 wird wegen Vorkommastelle 6 ignoriert! %n
 Anzahl beruecksichtigter Noten: 0
-Anzahl Bestandene: 30
+Anzahl Bestandene: 0
 Beste Note: 5,0
 Schlechteste Note: 1,0
-Durchschnitt Bestandene: 0,3 
-Durchfallquote: 100,0 % 
+Durchschnitt Bestandene: NaN 
+Durchfallquote: NaN % 
